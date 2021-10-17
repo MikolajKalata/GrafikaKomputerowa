@@ -1,0 +1,2 @@
+# GrafikaKomputerowa
+Zadania laboratoryjne
