@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635613460 source:z:\projecty mk\iiirok\vsemestr\grk\lab3\png\writepng.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<png.h>
+
+1635756389 source:c:\users\doktor\desktop\gazy\iiirok\v semestr\grk\Æwiczenia\lab3\png\writepng.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<png.h>
+
